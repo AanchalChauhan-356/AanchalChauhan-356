@@ -1,156 +1,225 @@
- 
-<!-- 🌸 Aanchal Chauhan 🌸 -->
+# 🌸 Hello, I'm Aanchal Chauhan
 
-<div align="center">
+### 🤖 Aspiring AI/ML Developer | Curious Mind | Forever a Learner
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EADCF8,45:F6D6E6,100:CDEBE7&height=190&section=header&text=Aanchal%20Chauhan&fontSize=42&fontColor=55445F&animation=fadeIn&fontAlignY=38&desc=Curious%20mind%20%7C%20AI%2FML%20enthusiast%20%7C%20Quiet%20problem%20solver&descAlignY=60&descSize=15" width="100%" alt="Lavender and pink welcome banner"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&pause=1500&color=E8A4BE&center=true&vCenter=true&width=700&lines=Somewhere+between+curiosity+and+code+%F0%9F%8C%B8;Asking+why%2C+exploring+how%2C+building+solutions;Turning+data+into+meaningful+insights+%F0%9F%8C%8A;Learning+AI%2C+one+question+at+a+time+%F0%9F%8C%B1" alt="Typing animation" />
+</p>
 
-### 🌷 A little curiosity can grow into something extraordinary.
+<p align="center">
+  <a href="https://github.com/AanchalChauhan-356">
+    <img src="https://img.shields.io/badge/GitHub-172536?style=for-the-badge&logo=github&logoColor=F4A6C1" />
+  </a>
+  <a href="https://www.linkedin.com/in/aanchal-chauhan-7340a4321">
+    <img src="https://img.shields.io/badge/LinkedIn-245C70?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aanchalchauhan819@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D98CA9?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-*An introvert with a curious mind, a love for books, and a habit of asking "why?"*
-
-[![GitHub](https://img.shields.io/badge/GitHub-AanchalChauhan--356-8B6F9D?style=flat&logo=github&logoColor=white)](https://github.com/AanchalChauhan-356)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CB8FAF?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanchal-chauhan-7340a4321)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-B7A1D1?style=flat&logo=gmail&logoColor=white)](mailto:aanchalchauhan819@gmail.com)
-
-</div>
-
----
-
-## 🌸 About Me
-
-Hello! I'm **Aanchal**, a curious learner exploring the world of **Artificial Intelligence and Machine Learning**.
-
-I'm someone who enjoys observing, questioning, learning, and figuring things out. I may be a little quiet, but my mind is usually busy connecting ideas, exploring possibilities, and finding solutions.
-
-- 🤖 Exploring **AI, Machine Learning, and Data Science**.
-- 🧠 Interested in turning real-world problems into intelligent solutions.
-- 🔍 Always asking *why* before figuring out *how*.
-- 📚 A book lover who enjoys getting lost in ideas and stories.
-- 🌱 Learning something new, one experiment at a time.
-- 🌊 Inspired by oceans, forests, quiet places, and little things that make life beautiful.
-
-> "The important thing is not to stop questioning. Curiosity has its own reason for existing."
->
-> — Albert Einstein
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AanchalChauhan-356&label=CURIOUS+VISITORS&color=D98CA9&style=flat-square" />
+</p>
 
 ---
 
-## 🧠 My Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-CEC0E8?style=for-the-badge&logo=python&logoColor=493B61)
-![C](https://img.shields.io/badge/C-D9D0EF?style=for-the-badge&logo=c&logoColor=493B61)
-![SQL](https://img.shields.io/badge/SQL-EAD6E8?style=for-the-badge&logo=mysql&logoColor=754D72)
-
-**AI / ML & Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-DCCBEF?style=for-the-badge&logo=pandas&logoColor=493B61)
-![NumPy](https://img.shields.io/badge/NumPy-D9E7F2?style=for-the-badge&logo=numpy&logoColor=36536B)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-EBDCCB?style=for-the-badge&logo=scikitlearn&logoColor=754D3B)
-![Plotly](https://img.shields.io/badge/Plotly-E6DDF2?style=for-the-badge&logo=plotly&logoColor=493B61)
-
-**Tools & Technologies**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F5DDCF?style=for-the-badge&logo=jupyter&logoColor=8B5438)
-![Streamlit](https://img.shields.io/badge/Streamlit-F2D9E2?style=for-the-badge&logo=streamlit&logoColor=874D67)
-![Git](https://img.shields.io/badge/Git-E8D6D0?style=for-the-badge&logo=git&logoColor=8B4D3E)
-![GitHub](https://img.shields.io/badge/GitHub-DCD5E8?style=for-the-badge&logo=github&logoColor=493B61)
-
-</div>
+<p align="center">
+  <i>"Stay curious. The universe is full of answers hiding behind better questions."</i>
+</p>
 
 ---
 
-## 🤖 AI & Machine Learning Projects
+## 🌷 A Little About Me
 
-### 1. 🌸 [Subscription Retention Intelligence System](https://github.com/AanchalChauhan-356/subscription-retention-system)
+Hello! I'm **Aanchal Chauhan**, a BCA student specializing in Artificial Intelligence and Machine Learning at **SGT University**.
 
-An AI/ML-focused project that explores customer subscription retention and churn prediction.
+I'm someone who is always searching for answers, asking questions and trying to understand the world beyond what appears on the surface.
 
-- Uses machine learning to identify customers who may be likely to leave.
-- Explores customer behaviour and risk segmentation.
-- Built with Python, Pandas, NumPy, Scikit-learn, Streamlit, and Plotly.
+I don't just want to know *how* something works. I want to understand *why* it works, where it fails and how it can be made better.
 
-### 2. 🩺 [Diabetes Prediction](https://github.com/AanchalChauhan-356/diabetes_prediction)
+My interests lie at the intersection of technology, data and problem-solving.
 
-A machine learning project focused on predicting diabetes using health-related input data.
+- 🎓 Pursuing BCA (Artificial Intelligence & Machine Learning).
+- 🧠 Exploring Machine Learning and Artificial Intelligence.
+- 🐍 Working with Python, data analysis and predictive modeling.
+- 📊 Interested in discovering patterns and meaningful insights from data.
+- 🌱 Constantly learning, experimenting and improving.
+- 🔍 Fascinated by questions that lead to interesting solutions.
+- 🎯 Open to AI/ML internships, research opportunities and meaningful collaborations.
 
-- Explores data preprocessing and classification.
-- Applies machine learning concepts to a healthcare-related problem.
-- Demonstrates how data can support predictive analysis.
-
----
-
-## 💻 Other Projects
-
-### 🌱 [Fresh Aid Hub](https://github.com/AanchalChauhan-356/fresh-aid-hub)
-
-A project built around a practical, real-world problem, with a focus on creating a useful digital solution.
-
-### 💗 [SoulServe](https://github.com/AanchalChauhan-356/SoulServe)
-
-A project that reflects my interest in building technology with a meaningful purpose.
-
-### 📅 [Medical Appointment Scheduler](https://github.com/AanchalChauhan-356/Medical-Appointment-Scheduler)
-
-A scheduling-focused application designed around organizing medical appointments.
-
-### 🧾 [Invoice System](https://github.com/AanchalChauhan-356/invoice-system)
-
-A project focused on simplifying invoice-related tasks and organizing billing workflows.
+**A quiet personality, an endlessly curious mind, and a strong desire to create something meaningful.**
 
 ---
 
-## 📊 GitHub Journey
+## 🪷 My World of Technology
 
-<div align="center">
+### 🤖 Artificial Intelligence & Machine Learning
 
-<img src="https://github-readme-stats.vercel.app/api?username=AanchalChauhan-356&show_icons=true&hide_border=true&bg_color=FBF7FC&title_color=9876B5&icon_color=C78FAF&text_color=66566F" height="165" alt="GitHub statistics"/>
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-345C55?style=for-the-badge&logo=scikitlearn&logoColor=F4D6E3" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-78658F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Predictive_Analytics-315D73?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Science-8D6A83?style=for-the-badge" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalChauhan-356&layout=compact&hide_border=true&bg_color=FBF7FC&title_color=9876B5&text_color=66566F" height="165" alt="Most used languages"/>
+### 🐍 Programming & Data Science
 
-<img src="https://streak-stats.demolab.com?user=AanchalChauhan-356&hide_border=true&background=FBF7FC&ring=C78FAF&fire=9876B5&currStreakLabel=9876B5&sideLabels=66566F&dates=8B7C91" width="70%" alt="GitHub contribution streak"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-51416B?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
-</div>
+### 📈 Visualization & Development
+
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### 🌿 Tools I Work With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 🌷 A Little More About Me
+## 🧠 Projects Born From Curiosity
 
-<div align="center">
+*I believe the best projects begin with a question and grow through experimentation.*
 
-| 🌸 | A few things that feel like me |
-|:---:|:---|
-| 📚 | Books, stories, and endless curiosity |
-| 🌊 | The calmness and mystery of oceans |
-| 🌲 | The peaceful beauty of forests |
-| 🪷 | Pink lotuses and soft lavender shades |
-| 🔍 | Asking questions and finding answers |
-| 💻 | Turning ideas into something real |
+### 01. 🌸 Subscription Retention Intelligence System
 
-</div>
+**What if we could identify customers who might leave before they actually do?**
 
-I believe that being curious is more important than knowing everything. Every bug is a puzzle, every project is a lesson, and every new concept is another door waiting to be opened.
+An end-to-end machine learning project designed to explore customer churn prediction and help businesses make more informed retention decisions.
+
+The system uses customer data and a Logistic Regression model to estimate churn risk, organize customers into risk categories and present actionable retention insights through an interactive application.
+
+**What makes it interesting:**
+- Customer churn prediction using Machine Learning.
+- Customer risk classification.
+- Data-driven retention recommendations.
+- Interactive dashboard for exploring predictions.
+- CSV-based customer analysis and downloadable results.
+
+**Technology:** Python · Scikit-learn · Pandas · NumPy · Logistic Regression · Streamlit · Plotly
+
+<p>
+  <a href="https://github.com/AanchalChauhan-356/subscription-retention-system">
+    <img src="https://img.shields.io/badge/Explore_Project-315D73?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://subscription-retention-system-kdbxrokufh6diw4wmyf5zu.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-D98CA9?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 💌 Let's Connect
+### 02. 💗 CreditLens
 
-I'm always happy to connect with fellow learners, developers, and people who enjoy exploring new ideas.
+**What can data tell us about financial decisions?**
 
-<div align="center">
+CreditLens is one of my featured repositories, representing my interest in exploring financial data and technology.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-CB8FAF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanchal-chauhan-7340a4321)
+It is part of my project portfolio where I aim to demonstrate practical problem-solving through software and data-driven approaches.
 
-[![Email](https://img.shields.io/badge/Email-aanchalchauhan819%40gmail.com-B7A1D1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanchalchauhan819@gmail.com)
+**Explore:** [CreditLens Repository](https://github.com/AanchalChauhan-356/CreditLens)
 
-<br/>
+---
 
-*Still learning. Still questioning. Still growing. 🌱*
+### 03. 🌱 Fresh Aid Hub
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CDEBE7,50:F6D6E6,100:EADCF8&height=110&section=footer" width="100%" alt="Soft pastel footer"/>
+**How can technology help address problems that matter in everyday life?**
 
-</div>
+Fresh Aid Hub is one of my featured application projects. It represents my interest in creating practical digital solutions and exploring how technology can be used to serve real needs.
+
+**Explore:** [Fresh Aid Hub Repository](https://github.com/AanchalChauhan-356/fresh-aid-hub)
+
+---
+
+### 04. 🌊 SoulServe
+
+**Can we make digital experiences more meaningful?**
+
+SoulServe is another featured project in my development journey, reflecting my interest in building applications that connect technology with useful experiences.
+
+**Explore:** [SoulServe Repository](https://github.com/AanchalChauhan-356/SoulServe)
+
+---
+
+## 📚 My Learning Garden
+
+*Every new concept is another seed. Every experiment is a chance to grow.*
+
+| Learning Area | What I'm Exploring |
+|---|---|
+| Python | Programming and problem-solving |
+| Data Analysis | Data cleaning and exploration |
+| Statistics | Understanding patterns and distributions |
+| Machine Learning | Predictive and classification models |
+| Model Evaluation | Understanding model performance |
+| Data Visualization | Communicating insights |
+| Artificial Intelligence | Exploring intelligent applications |
+
+---
+
+## 🌊 GitHub Insights
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AanchalChauhan-356&show_icons=true&theme=tokyonight&hide_border=true&title_color=E8A4BE&icon_color=88B7C7&text_color=E8E4E1&bg_color=172536" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalChauhan-356&layout=compact&theme=tokyonight&hide_border=true&title_color=E8A4BE&text_color=E8E4E1&bg_color=172536" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AanchalChauhan-356&theme=tokyonight&hide_border=true&ring=E8A4BE&fire=D98CA9&currStreakLabel=E8A4BE&background=172536" />
+</p>
+
+---
+
+## 🔭 What Lies Ahead?
+
+There is so much more I want to explore.
+
+- 🌸 Strengthening Machine Learning fundamentals.
+- 🧠 Exploring Deep Learning.
+- 🤖 Understanding Generative AI and Large Language Models.
+- 📊 Developing better predictive models.
+- 🌿 Building practical AI-powered applications.
+- 🔬 Exploring how technology can solve meaningful real-world problems.
+
+---
+
+## 💌 A Place to Connect
+
+I may be an introvert, but I'm always happy to connect with people who love learning, creating and exchanging ideas.
+
+Whether it's an interesting AI project, a technical discussion, a collaboration or simply a conversation about technology, I'd love to connect.
+
+<p align="center">
+  <a href="mailto:aanchalchauhan819@gmail.com">
+    <img src="https://img.shields.io/badge/Write_Me_an_Email-D98CA9?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aanchal-chauhan-7340a4321">
+    <img src="https://img.shields.io/badge/Find_Me_on_LinkedIn-315D73?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  🌸 <b>Based in India</b> · 🌊 <b>Driven by Curiosity</b> · 🌱 <b>Growing Through Learning</b>
+</p>
+
+---
+
+<p align="center">
+  <i>"Quietly observing the world, endlessly questioning it, and finding my own little ways to make it better."</i>
+</p>
+
+<p align="center">
+  <b>Thank you for wandering through my little corner of GitHub. 🌷</b>
+</p>
