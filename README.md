@@ -1,195 +1,225 @@
-# 👋 Hola! I'm Aanchal Chauhan
+# 🌸 Hello, I'm Aanchal Chauhan
 
-### 🤖 AI/ML Enthusiast | Machine Learning Developer | Data Science Explorer
+### 🤖 Aspiring AI/ML Developer | Curious Mind | Forever a Learner
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Intelligence+%F0%9F%A7%A0;Exploring+Machine+Learning+%26+AI;Building+Predictive+Solutions+With+Python;Learning%2C+Experimenting+%26+Innovating+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&pause=1500&color=E8A4BE&center=true&vCenter=true&width=700&lines=Somewhere+between+curiosity+and+code+%F0%9F%8C%B8;Asking+why%2C+exploring+how%2C+building+solutions;Turning+data+into+meaningful+insights+%F0%9F%8C%8A;Learning+AI%2C+one+question+at+a+time+%F0%9F%8C%B1" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/AanchalChauhan-356">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-172536?style=for-the-badge&logo=github&logoColor=F4A6C1" />
   </a>
   <a href="https://www.linkedin.com/in/aanchal-chauhan-7340a4321">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-245C70?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aanchalchauhan819@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D98CA9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AanchalChauhan-356&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AanchalChauhan-356&label=CURIOUS+VISITORS&color=D98CA9&style=flat-square" />
 </p>
 
 ---
-
-## 🧠 About Me
-
-Hello! I'm **Aanchal Chauhan**, an aspiring AI/ML developer passionate about transforming data into meaningful insights and building intelligent solutions.
-
-🎓 Pursuing **Bachelor of Computer Applications (BCA) in Artificial Intelligence & Machine Learning** at **SGT University**.
-
-🤖 Interested in Machine Learning, Predictive Analytics, Artificial Intelligence and Data Science.
-
-🐍 Working with Python to explore data, develop ML models and build practical applications.
-
-📊 Interested in understanding patterns, discovering insights and solving real-world problems through data.
-
-🚀 I enjoy experimenting with new ideas and turning theoretical knowledge into practical projects.
-
-🌱 Continuously learning and improving my knowledge of machine learning algorithms, data preprocessing and model evaluation.
-
-🎯 **Open to AI/ML internships, Machine Learning opportunities and Data Science collaborations.**
-
-💬 Let's connect, learn and build something intelligent!
-
----
-
-## 🔬 My Areas of Interest
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Science-2563EB?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Predictive_Analytics-9333EA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Visualization-0891B2?style=for-the-badge" />
+  <i>"Stay curious. The universe is full of answers hiding behind better questions."</i>
 </p>
-
-- Supervised Machine Learning
-- Predictive Modeling
-- Classification Algorithms
-- Data Analysis and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- AI-powered Applications
 
 ---
 
-## 🛠️ Technical Skills
+## 🌷 A Little About Me
 
-### 🐍 Programming Language
+Hello! I'm **Aanchal Chauhan**, a BCA student specializing in Artificial Intelligence and Machine Learning at **SGT University**.
+
+I'm someone who is always searching for answers, asking questions and trying to understand the world beyond what appears on the surface.
+
+I don't just want to know *how* something works. I want to understand *why* it works, where it fails and how it can be made better.
+
+My interests lie at the intersection of technology, data and problem-solving.
+
+- 🎓 Pursuing BCA (Artificial Intelligence & Machine Learning).
+- 🧠 Exploring Machine Learning and Artificial Intelligence.
+- 🐍 Working with Python, data analysis and predictive modeling.
+- 📊 Interested in discovering patterns and meaningful insights from data.
+- 🌱 Constantly learning, experimenting and improving.
+- 🔍 Fascinated by questions that lead to interesting solutions.
+- 🎯 Open to AI/ML internships, research opportunities and meaningful collaborations.
+
+**A quiet personality, an endlessly curious mind, and a strong desire to create something meaningful.**
+
+---
+
+## 🪷 My World of Technology
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-345C55?style=for-the-badge&logo=scikitlearn&logoColor=F4D6E3" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-78658F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Predictive_Analytics-315D73?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Science-8D6A83?style=for-the-badge" />
+</p>
+
+### 🐍 Programming & Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### 📊 Data Science & Machine Learning
-
-<p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-51416B?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-### 📈 Application Development & Tools
+### 📈 Visualization & Development
 
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### 🌿 Tools I Work With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured AI/ML Project
+## 🧠 Projects Born From Curiosity
 
-### 🧠 Subscription Retention Intelligence System
+*I believe the best projects begin with a question and grow through experimentation.*
 
-<a href="https://github.com/AanchalChauhan-356/subscription-retention-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AanchalChauhan-356&repo=subscription-retention-system&theme=tokyonight&hide_border=true" alt="Subscription Retention System" />
-</a>
+### 01. 🌸 Subscription Retention Intelligence System
 
-**An end-to-end Machine Learning application for customer churn prediction and retention analytics.**
+**What if we could identify customers who might leave before they actually do?**
 
-**Problem it solves:** Customer churn can affect business growth. This project helps identify customers who may leave a subscription service so businesses can take proactive retention actions.
+An end-to-end machine learning project designed to explore customer churn prediction and help businesses make more informed retention decisions.
 
-**Key Features:**
-- Customer churn probability prediction.
-- Low, Medium and High customer-risk segmentation.
-- Retention recommendations based on risk categories.
-- Interactive dashboard and data visualizations.
-- CSV upload, prediction and downloadable results.
-- Customer risk analysis and filtering.
+The system uses customer data and a Logistic Regression model to estimate churn risk, organize customers into risk categories and present actionable retention insights through an interactive application.
 
-**Technology Stack:**
+**What makes it interesting:**
+- Customer churn prediction using Machine Learning.
+- Customer risk classification.
+- Data-driven retention recommendations.
+- Interactive dashboard for exploring predictions.
+- CSV-based customer analysis and downloadable results.
 
-Python · Scikit-learn · Pandas · NumPy · Streamlit · Plotly · Logistic Regression
+**Technology:** Python · Scikit-learn · Pandas · NumPy · Logistic Regression · Streamlit · Plotly
 
-**Dataset:** IBM Telco Customer Churn Dataset.
-
-🔗 [Explore Project Repository](https://github.com/AanchalChauhan-356/subscription-retention-system)
-
-🌐 [View Live Application](https://subscription-retention-system-kdbxrokufh6diw4wmyf5zu.streamlit.app/)
+<p>
+  <a href="https://github.com/AanchalChauhan-356/subscription-retention-system">
+    <img src="https://img.shields.io/badge/Explore_Project-315D73?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://subscription-retention-system-kdbxrokufh6diw4wmyf5zu.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-D98CA9?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📚 My Learning Journey
+### 02. 💗 CreditLens
 
-I'm continuously developing my AI/ML knowledge through practical implementation and experimentation.
+**What can data tell us about financial decisions?**
 
-| Area | Focus |
+CreditLens is one of my featured repositories, representing my interest in exploring financial data and technology.
+
+It is part of my project portfolio where I aim to demonstrate practical problem-solving through software and data-driven approaches.
+
+**Explore:** [CreditLens Repository](https://github.com/AanchalChauhan-356/CreditLens)
+
+---
+
+### 03. 🌱 Fresh Aid Hub
+
+**How can technology help address problems that matter in everyday life?**
+
+Fresh Aid Hub is one of my featured application projects. It represents my interest in creating practical digital solutions and exploring how technology can be used to serve real needs.
+
+**Explore:** [Fresh Aid Hub Repository](https://github.com/AanchalChauhan-356/fresh-aid-hub)
+
+---
+
+### 04. 🌊 SoulServe
+
+**Can we make digital experiences more meaningful?**
+
+SoulServe is another featured project in my development journey, reflecting my interest in building applications that connect technology with useful experiences.
+
+**Explore:** [SoulServe Repository](https://github.com/AanchalChauhan-356/SoulServe)
+
+---
+
+## 📚 My Learning Garden
+
+*Every new concept is another seed. Every experiment is a chance to grow.*
+
+| Learning Area | What I'm Exploring |
 |---|---|
-| Python | Programming and problem solving |
-| Data Science | Data cleaning and exploration |
-| Statistics | Understanding data and distributions |
-| Machine Learning | Algorithms and predictive modeling |
+| Python | Programming and problem-solving |
+| Data Analysis | Data cleaning and exploration |
+| Statistics | Understanding patterns and distributions |
+| Machine Learning | Predictive and classification models |
 | Model Evaluation | Understanding model performance |
-| Visualization | Communicating data insights |
-| AI | Exploring intelligent applications |
+| Data Visualization | Communicating insights |
+| Artificial Intelligence | Exploring intelligent applications |
 
 ---
 
-## 📊 GitHub Analytics
+## 🌊 GitHub Insights
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AanchalChauhan-356&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalChauhan-356&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AanchalChauhan-356&show_icons=true&theme=tokyonight&hide_border=true&title_color=E8A4BE&icon_color=88B7C7&text_color=E8E4E1&bg_color=172536" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalChauhan-356&layout=compact&theme=tokyonight&hide_border=true&title_color=E8A4BE&text_color=E8E4E1&bg_color=172536" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AanchalChauhan-356&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=AanchalChauhan-356&theme=tokyonight&hide_border=true&ring=E8A4BE&fire=D98CA9&currStreakLabel=E8A4BE&background=172536" />
 </p>
 
 ---
 
-## 🎯 My Goals
+## 🔭 What Lies Ahead?
 
-- Strengthen my Machine Learning fundamentals.
-- Build more real-world ML projects.
-- Improve my Python and data analysis skills.
-- Explore Deep Learning and Generative AI.
-- Learn to develop and deploy ML applications.
-- Contribute to meaningful AI/ML projects.
-- Grow as an AI/ML professional.
+There is so much more I want to explore.
+
+- 🌸 Strengthening Machine Learning fundamentals.
+- 🧠 Exploring Deep Learning.
+- 🤖 Understanding Generative AI and Large Language Models.
+- 📊 Developing better predictive models.
+- 🌿 Building practical AI-powered applications.
+- 🔬 Exploring how technology can solve meaningful real-world problems.
 
 ---
 
-## 🤝 Let's Connect!
+## 💌 A Place to Connect
 
-I'm always happy to connect with people interested in Artificial Intelligence, Machine Learning, Data Science and technology.
+I may be an introvert, but I'm always happy to connect with people who love learning, creating and exchanging ideas.
+
+Whether it's an interesting AI project, a technical discussion, a collaboration or simply a conversation about technology, I'd love to connect.
 
 <p align="center">
   <a href="mailto:aanchalchauhan819@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Write_Me_an_Email-D98CA9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aanchal-chauhan-7340a4321">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Find_Me_on_LinkedIn-315D73?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <b>📍 India | 🎓 BCA (AI & ML) | 💜 Aspiring AI/ML Developer</b>
+  🌸 <b>Based in India</b> · 🌊 <b>Driven by Curiosity</b> · 🌱 <b>Growing Through Learning</b>
 </p>
 
 ---
 
 <p align="center">
-  <i>"The future belongs to those who turn data into knowledge and knowledge into innovation."</i>
+  <i>"Quietly observing the world, endlessly questioning it, and finding my own little ways to make it better."</i>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+  <b>Thank you for wandering through my little corner of GitHub. 🌷</b>
 </p>
