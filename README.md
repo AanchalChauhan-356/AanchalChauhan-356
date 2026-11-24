@@ -1,48 +1,106 @@
-<h1 align="center">Hi 👋, I'm Aanchal Chauhan</h1>
-<h3 align="center">Full-Stack Developer • Data & ML Enthusiast • Problem Solver</h3>
+# 👋 Hola! I'm Aanchal Chauhan
+
+### `Full-Stack Developer` · `AI/ML Enthusiast` · `Creative Problem Solver`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+things+with+TypeScript+%26+Python;Turning+ideas+into+real+products;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;Creating+With+TypeScript+%26+Python;Exploring+AI%2FML+%26+Data+Science;Learning+Every+Day.+Shipping+Every+Day." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=AanchalChauhan-356&style=for-the-badge&color=6C63FF" />
+  <a href="https://github.com/AanchalChauhan-356">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AanchalChauhan-356&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 Student at **YOUR COLLEGE / COURSE** ← EDIT
-- 🔭 Currently working on: **WHAT YOU'RE BUILDING** ← EDIT
-- 🌱 Learning: **e.g. System Design, Machine Learning, Next.js** ← EDIT
-- 💬 Ask me about: TypeScript, React, Python
-- 🎯 Looking for: **internships / opportunities in ROLE** ← EDIT
+## 💜 About Me
 
-## 🛠️ Tech Stack
+Hey there! I'm Aanchal, a developer who loves turning ideas into useful digital experiences.
+
+🎓 Pursuing **BCA (Artificial Intelligence & Machine Learning)** at **SGT University**.
+
+💻 Interested in building full-stack applications and exploring intelligent systems.
+
+🌱 Currently growing my skills in software development, data science and machine learning.
+
+🧠 I enjoy solving problems, learning new technologies and experimenting with ideas.
+
+🎯 Open to **software development, full-stack development and AI/ML internship opportunities**.
+
+💬 Ask me about **TypeScript, React, Python and web development**.
+
+---
+
+## ⚡ Tech Stack & Tools
+
+### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css" />
 </p>
-<!-- Keep only what you really use -->
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgresql" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
-| Project | What it does | Tech |
-|---|---|---|
-| [**fresh-aid-hub**](https://github.com/AanchalChauhan-356/fresh-aid-hub) | One line on what problem it solves ← EDIT | TypeScript |
-| [**SoulServe**](https://github.com/AanchalChauhan-356/SoulServe) | One line ← EDIT | TypeScript |
-| [**subscription-retention-system**](https://github.com/AanchalChauhan-356/subscription-retention-system) | Predicts/reduces subscriber churn ← EDIT | Python |
-| [**CreditLens**](https://github.com/AanchalChauhan-356/CreditLens) | One line ← EDIT | ← EDIT |
 
-## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AanchalChauhan-356&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalChauhan-356&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/AanchalChauhan-356/fresh-aid-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AanchalChauhan-356&repo=fresh-aid-hub&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/AanchalChauhan-356/SoulServe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AanchalChauhan-356&repo=SoulServe&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AanchalChauhan-356/subscription-retention-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AanchalChauhan-356&repo=subscription-retention-system&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/AanchalChauhan-356/CreditLens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AanchalChauhan-356&repo=CreditLens&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+### Other Projects
+
+| Project | Area |
+|---|---|
+| [Diabetes Prediction](https://github.com/AanchalChauhan-356/diabetes_prediction) | Machine Learning |
+| [Invoice System](https://github.com/AanchalChauhan-356/invoice-system) | Python |
+| [Vehicle Service Booking](https://github.com/AanchalChauhan-356/vehicle-service-booking) | PHP |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AanchalChauhan-356&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AanchalChauhan-356&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -50,4 +108,34 @@
 </p>
 
 ---
-<p align="center">⭐ If you like my work, drop a star on a repo, it makes my day!</p>
+
+## 🌱 Currently Exploring
+
+- Building better full-stack applications
+- Improving Python and problem-solving skills
+- Exploring Machine Learning and Data Science
+- Understanding scalable software architecture
+- Writing clean, maintainable code
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to connect with developers, collaborate on interesting projects and explore new opportunities.
+
+<p align="center">
+  <a href="https://github.com/AanchalChauhan-356">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Great things are built one line of code at a time."</i> ✨
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting in my work, consider starring the repository!
+</p>
